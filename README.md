@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gretoad, I'm a french student of 17 years old
+- 👋 Hi, I’m @Gretoad, I've 17 years old and my principal default is my laziness
 - 👀 I’m interested in having fun on internet
 - 🌱 I’m currently learning everything I can 
 - 📫 If you are bored, you will can reached me with this e-mail adress: Gretoad63@gmail.com
