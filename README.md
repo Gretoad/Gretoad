@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gretoad, I've 17 years old and my principal default is my laziness
+- 👋 Hi, I’m @Gretoad, I've 17 years old, my principal default is my laziness and my dream is living in a pretty house with my future cats and dogs!
 - 👀 I’m interested in having fun on internet
 - 🌱 I’m currently learning everything I can 
 - 📫 If you are bored, you will can reached me with this e-mail adress: Gretoad63@gmail.com
