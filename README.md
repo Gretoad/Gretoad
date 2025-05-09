@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything I can 
 - 📫 If you are really bored, you will can reached me with this e-mail adress: Gretoad63@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I will be the famous developer in the world
+- ⚡ Fun fact: I will be a good guy
 
 <!---
 Gretoad/Gretoad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
