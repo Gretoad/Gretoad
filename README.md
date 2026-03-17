@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @Gretoad, I've 17 years old, my principal default is my laziness and my dream is living in a pretty house with my future cats and dogs!
-- 👀 I’m interested in having fun on internet
-- 🌱 I’m currently learning everything I can 
-- 📫 If you are really bored, you will can reached me with this e-mail adress: Gretoad63@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I will be a good guy
-
-<!---
-Gretoad/Gretoad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Gretoad, I've 17 years old ! I'm passionated by computer science. Here, I share you mini-projets and funny useless ideas !
+- 🌱 I’m currently learning Rust and I3's configs for my linux.
+- 📫 If you are very bored, you can reach me with this e-mail adress: Gretoad63@gmail.com.
+- ⚡ Fun fact: I will be a good guy.
