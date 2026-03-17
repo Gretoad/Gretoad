@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @Gretoad, I've 17 years old ! I'm passionated by computer science. Here, I share you mini-projets and funny useless ideas !
-- 🌱 I’m currently learning Rust and I3's configs for my linux.
-- 📫 If you are very bored, you can reach me with this e-mail adress: Gretoad63@gmail.com.
-- ⚡ Fun fact: I will be a good guy.
+# Hi, I'm @Gretoad 👋 
+
+I'm a 17-year-old computer science enthusiast. I love building mini-projects and experimenting with "useless but fun" ideas!
+
+### 🛠 Tech Stack & Interests
+- 🦀 **Currently diving into:** Rust
+- 🐧 **Linux Rice:** i3wm configuration
+- 🐍 **GUI:** Tkinter (Python)
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+📫 **Reach out:** [Gretoad63@gmail.com](mailto:Gretoad63@gmail.com)
