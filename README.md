@@ -1,6 +1,6 @@
 # Hi, I'm @Gretoad 👋 
 
-I'm a 17-year-old computer science enthusiast. I love building mini-projects and experimenting with "useless but fun" ideas!
+I'm a 17-year-old computer science enthusiast. I love building mini-projects and experimenting with useless but fun ideas!
 
 ### 🛠 Tech Stack & Interests
 - 🦀 **Currently diving into:** Rust
