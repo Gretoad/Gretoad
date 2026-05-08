@@ -9,6 +9,6 @@ I'm a 18-year-old. I like math, philosophy and coding.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/python-4584b6.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/python-4584b6.svg?style=for-the-badge&logo=python&logoColor=646464) 
 
 **Reach out:** [Gretoad63@gmail.com](mailto:Gretoad63@gmail.com)
